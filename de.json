@@ -1,0 +1,15 @@
+{
+  "acp_test_7": "Die europäischen Sprachen gehören zur selben Familie. Ihre getrennte Existenz ist ein Mythos. Für Wissenschaft, Musik, Sport usw. verwendet Europa das gleiche Vokabular. Die Sprachen unterscheiden sich nur in ihrer Grammatik, ihrer Aussprache und ihren häufigsten Wörtern.",
+  "apc_test_1": "Automatische Projekterstellung wird getestet... Status: {state}",
+  "apc_test_2": "Automatische Projekterstellung erneut testen...",
+  "apc_test_3": "Hallo Welt!",
+  "apc_test_4": "Meine Marke",
+  "apc_test_5": "Heute ist ein großartiger Tag für maschinelle Übersetzung!",
+  "apc_test_6": "Das ist etwas mehr Text. Bitte übersetze es.",
+  "apc_test_8": "Heute ist so ein toller Tag!",
+  "gitlab_key": "Das ist von Gitlab!",
+  "icu_plural": "{nrOfChairs, plural, zero{There are no chairs.} one{There is one chair.} other{There are # chairs.}}",
+  "my_key": "Dies ist eine Übersetzung.",
+  "my_key_2": "Dies ist eine weitere Übersetzung.",
+  "my_key_3": "Dies ist eine weitere Übersetzung."
+}
