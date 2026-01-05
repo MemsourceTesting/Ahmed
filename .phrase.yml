@@ -1,5 +1,5 @@
 phrase:
-  project_id: "d2d1deeecdfa41f343cf012bb225b24d"
+  project_id: d2d1deeecdfa41f343cf012bb225b24d
   push:
     sources:
     - file: source/<tag>.en.json
