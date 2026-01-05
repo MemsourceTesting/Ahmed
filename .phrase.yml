@@ -5,7 +5,7 @@ phrase:
     - file: en.json
       params:
         file_format: simple_json
-        locale_id: en #Can be the name (e.g. en-US) or public id (via Language settings -> API) of the locale. Preferred is the public id.
+        locale_id: English #Can be the name (e.g. en-US) or public id (via Language settings -> API) of the locale. Preferred is the public id.
         update_translations: true #Indicates whether existing translations should be updated with the file content.
         tags: github
         autotranslate: true 
@@ -15,12 +15,12 @@ phrase:
     - file: ./de.json
       params:
         file_format: simple_json
-        locale_id: de 
+        locale_id: German 
         include_empty_translations: true #Indicates whether keys without translations should be included in the output as well.
         encoding: UTF-8
     - file: "./ar.json"
       params:
         file_format: simple_json
-        locale_id: ar 
+        locale_id: 577d28969ced69d376d0dc9fde3bf938 
         include_empty_translations: true 
         encoding: UTF-8
