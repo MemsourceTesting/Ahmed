@@ -7,7 +7,7 @@ phrase:
         file_format: simple_json
         locale_id: English #Can be the name (e.g. en-US) or public id (via Language settings -> API) of the locale. Preferred is the public id.
         update_translations: true #Indicates whether existing translations should be updated with the file content.
-        tags: github_1
+        #tags: github_1
         autotranslate: true 
         encoding: UTF-8
         - file: ./sources/<tag>.json
@@ -15,7 +15,7 @@ phrase:
         file_format: simple_json
         locale_id: English #Can be the name (e.g. en-US) or public id (via Language settings -> API) of the locale. Preferred is the public id.
         update_translations: true #Indicates whether existing translations should be updated with the file content.
-        tags: github_2
+        #tags: github_2
         autotranslate: true 
         encoding: UTF-8
   pull:
