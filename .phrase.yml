@@ -2,7 +2,7 @@ phrase:
   project_id: "d2d1deeecdfa41f343cf012bb225b24d"
   push:
     sources:
-    - file: ./source/<tag>.json
+    - file: ./source/<tag>.en1.yml
       params:
         file_format: simple_json
         locale_id: English #Can be the name (e.g. en-US) or public id (via Language settings -> API) of the locale. Preferred is the public id.
@@ -10,7 +10,7 @@ phrase:
         #tags: github_1
         autotranslate: true 
         encoding: UTF-8
-        - file: ./sources/<tag>.json
+        - file: ./sources/<tag>.en2.yml
       params:
         file_format: simple_json
         locale_id: English #Can be the name (e.g. en-US) or public id (via Language settings -> API) of the locale. Preferred is the public id.
