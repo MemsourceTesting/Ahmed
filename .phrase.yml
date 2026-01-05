@@ -12,7 +12,7 @@ phrase:
         encoding: UTF-8
   pull:
     targets:
-    - file: ./de.json
+    - file: "./de.json"
       params:
         file_format: simple_json
         locale_id: German 
